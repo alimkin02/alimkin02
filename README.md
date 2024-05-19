@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://t.me/alimkin02">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/alimkin2014">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
+
 <!--
 **alimkin02/alimkin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
