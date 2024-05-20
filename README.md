@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello world! 👋
+
+Here I share my projects by Machine Learning, Data Science and some educational projects. 
+You are welcome!
+
+---
 
 <div id="badges">
   <a href="https://t.me/alimkin02">
@@ -8,6 +13,10 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **alimkin02/alimkin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
