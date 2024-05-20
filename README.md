@@ -1,8 +1,5 @@
 ### Hello world! 👋
 
-Here I share my projects by Machine Learning, Data Science and some educational projects. 
-You are welcome!
-
 ---
 
 <div id="badges">
